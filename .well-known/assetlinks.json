@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sap.android.assistant",
+    "sha256_cert_fingerprints":
+    ["88:A2:92:47:B3:3C:72:7A:BF:40:F5:27:BC:A3:FE:63:D5:63:F9:EB:1A:FA:31:1F:16:4F:1A:F1:8B:15:7E:A6"]
+  }
+}]
